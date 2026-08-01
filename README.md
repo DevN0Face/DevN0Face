@@ -21,9 +21,6 @@
   <a href="https://github.com/DevN0Face" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/nikolai-maximilian-walkenfort-0071472a1/)]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
   <a href="mailto:devnoface-it@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
@@ -168,9 +165,6 @@ On this profile, you’ll mostly find work around:
 <p align="center">
   <a href="https://github.com/DevN0Face" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="[https://www.linkedin.com/in/nikolai-maximilian-walkenfort-0071472a1/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
