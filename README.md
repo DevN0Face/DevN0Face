@@ -21,10 +21,10 @@
   <a href="https://github.com/DevN0Face" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/nikolai-maximilian-walkenfort-0071472a1/)" target="_blank">
+  <a href="[[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/nikolai-maximilian-walkenfort-0071472a1/)]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:devnoface-it@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
@@ -160,21 +160,6 @@ On this profile, you’ll mostly find work around:
 - product-focused web projects
 - architecture-driven coding
 - practical tools with real-world use cases
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevN0Face&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=DevN0Face&theme=tokyonight&hide_border=true" />
-</div>
-
-
 
 ---
 
